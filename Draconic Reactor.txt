@@ -7,7 +7,6 @@ local thread = require("thread")
 -- Component Proxies
 local reactor = component.draconic_reactor
 local energyOffload = component.redstone
-local gpu = component.gpu
 
 -- Shared Variables
 local temperature = 0
